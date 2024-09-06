@@ -1,1 +1,1 @@
-
+I've made a simple project that keeps track of all the products you are purchasing on this online website with a simple shopping cart. I used React for this project.I'm still working on this project for the further development
